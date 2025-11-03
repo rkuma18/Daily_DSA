@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Daily DSA Practice
+# Daily DSA Practice
 
 _A collection of Python-based Data Structures & Algorithms problems, organized by topic for daily learning and interview preparation._
 
@@ -15,7 +15,7 @@ _A collection of Python-based Data Structures & Algorithms problems, organized b
 
 ---
 
-## 📚 Overview
+## Overview
 
 This repository contains **daily DSA (Data Structures and Algorithms)** practice problems written in **Python**.  
 Each folder focuses on a specific concept — from basic input/output to recursion, hashing, and sorting.
@@ -24,7 +24,7 @@ Each folder focuses on a specific concept — from basic input/output to recursi
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Daily_DSA/
@@ -54,14 +54,6 @@ cd Daily_DSA
 python3 6_Sorting/1_Selection.py
 ```
 
-### 3️⃣ (Optional) Setup Virtual Environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate  # For Mac/Linux
-venv\Scripts\activate     # For Windows
-```
-
 ---
 
 ## 🧩 Topics Covered
@@ -77,31 +69,20 @@ venv\Scripts\activate     # For Windows
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
--   **Language:** Python 🐍
+-   **Language:** Python
 -   **Tools:** Git, GitHub
--   **Editor:** VS Code / PyCharm
+-   **Editor:** VS Code
 -   **Version Control:** Git CLI
 
 ---
 
-## 💡 Learning Goal
+## Learning Goal
 
 > _"One DSA problem a day builds lifelong algorithmic confidence."_
 
 This repo helps track progress and deepen core programming logic — one concept at a time.
-
----
-
-## 🌟 Future Enhancements
-
--   [ ] Searching algorithms (Linear & Binary Search)
--   [ ] Two-pointer & Sliding Window techniques
--   [ ] Linked List & Stack/Queue problems
--   [ ] Tree & Graph traversal algorithms
--   [ ] Dynamic Programming challenges
--   [ ] Markdown explanations for each topic
 
 ---
 
@@ -123,6 +104,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ### ⭐ If you find this repo helpful, consider giving it a star! ⭐
 
-**Happy Coding! 🚀**
+**Happy Coding!**
 
 </div>
