@@ -37,6 +37,7 @@ Daily_DSA/
 ├── 6_Sorting/                 # Selection, Bubble, Merge, Insertion, Quick sorts
 └── 7_Array/
     └── 1_Easy/                # Beginner-friendly array problems
+    └── 2_Medium/
 ```
 
 ---
@@ -79,27 +80,6 @@ Navigate through folders, read the code, understand the logic, and try solving p
 | **[5_Hashing](./5_Hashing/)**         | Frequency count, key-value problems                   | 6+       | ✅ Complete    |
 | **[6_Sorting](./6_Sorting/)**         | Selection, Bubble, Insertion, Merge, Quick algorithms | 6+       | ✅ Complete    |
 | **[7_Array](./7_Array/)**             | Searching, rotation, duplicates, and subarray logic   | 14+      | 🚀 In Progress |
-
----
-
-## Array Problems (1_Easy)
-
-| #   | Problem                                                                    | Description                               | Difficulty |
-| --- | -------------------------------------------------------------------------- | ----------------------------------------- | ---------- |
-| 1   | [Largest Element Array](./7_Array/1_Easy/1_Largest_element_array.py)       | Find the largest element in an array      | 🟢 Easy    |
-| 2   | [Second Largest Element](./7_Array/1_Easy/2_Second_Largest_Element.py)     | Find the second largest element           | 🟢 Easy    |
-| 3   | [Array is Sorted](./7_Array/1_Easy/3_Array_is_Sorted.py)                   | Check if an array is sorted               | 🟢 Easy    |
-| 4   | [Duplicates in Place](./7_Array/1_Easy/4_Duplicates_in_place.py)           | Identify duplicates without extra space   | 🟢 Easy    |
-| 5   | [Left Rotate Array](./7_Array/1_Easy/5_Left_Rotate_the_Array.py)           | Left rotate the array by one position     | 🟢 Easy    |
-| 6   | [Rotate Array by K](./7_Array/1_Easy/6_Rotate_array_by_K.py)               | Rotate array by K positions               | 🟢 Easy    |
-| 7   | [Move All Zeros](./7_Array/1_Easy/7_Move_all_Zeros.py)                     | Move all zeros to the end of array        | 🟢 Easy    |
-| 8   | [Linear Search](./7_Array/1_Easy/8_Linear_Search.py)                       | Search an element linearly                | 🟢 Easy    |
-| 9   | [Union of Arrays](./7_Array/1_Easy/9_Union.py)                             | Find the union of two arrays              | 🟢 Easy    |
-| 10  | [Missing Number](./7_Array/1_Easy/10_missing_number.py)                    | Find the missing number in sequence       | 🟢 Easy    |
-| 11  | [Maximum Consecutive Ones](./7_Array/1_Easy/11_Maximum_Consecutive_One.py) | Find max consecutive ones in binary array | 🟢 Easy    |
-| 12  | [Appears Once](./7_Array/1_Easy/12_appears_once.py)                        | Find element that appears only once       | 🟢 Easy    |
-| 13  | [Longest Subarray](./7_Array/1_Easy/13_Longest_Subarray.py)                | Find the longest subarray of positives    | 🟢 Easy    |
-| 14  | [Longest Subarray Sum K](./7_Array/1_Easy/14_longest_subarray_sum_k.py)    | Longest subarray with sum equal to K      | 🟢 Easy    |
 
 ---
 
